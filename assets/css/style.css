@@ -1219,7 +1219,7 @@ section {
 
 .section-title p {
   margin: 0;
-  font-size: 36px;
+  font-size: 29px;
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
@@ -2511,7 +2511,7 @@ body {
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
   position: relative;
   font-family: "Poppins", sans-serif;
   color: #111;
@@ -2683,7 +2683,7 @@ body {
   font-size: 32px;
   font-weight: 700;
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 26px;
   position: relative;
   font-family: "Poppins", sans-serif;
   color: #111;
